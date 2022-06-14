@@ -1,0 +1,4 @@
+This FileB 
+
+Version 2 
+version 3
