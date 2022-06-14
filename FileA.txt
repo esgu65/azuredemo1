@@ -3,3 +3,5 @@ This FileA
 githupa ozel2
 
 githupa ozel3
+
+bunu githubta yazdım
